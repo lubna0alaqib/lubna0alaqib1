@@ -19,3 +19,23 @@ NLP Tools: spaCy, NLTK, HuggingFace Transformers
 Machine Learning: scikit-learn, TensorFlow, PyTorch
 Libraries: Pandas, NumPy, FuzzyWuzzy, RapidFuzz
 Cloud Tools: AWS (optional, if applicable)
+
+
+
+# Lubna Alaqib's Portfolio  
+Welcome! I’m a Data Scientist specializing in Natural Language Processing (NLP), data mapping, and machine learning.  
+
+## Key Projects  
+### 1. Spelling Correction  
+- Implemented edit distance algorithms and pretrained models for error correction.  
+
+### 2. Brand-Name Mapping  
+- Utilized Python (spaCy, FuzzyWuzzy) for accurate customer-to-brand term matching.  
+
+### 3. Taxonomy Alignment  
+- Developed a framework for mapping customer queries to a standardized taxonomy.  
+
+## Skills  
+- **Programming**: Python, SQL  
+- **NLP Libraries**: spaCy, NLTK, Transformers  
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch  
